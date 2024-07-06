@@ -50,27 +50,6 @@ To leverage my expertise in cybersecurity to protect digital assets by joining a
 - [Detection Lab](https://github.com/clong/DetectionLab)
 - [SOC Automation Project](https://github.com/socprime/SOAR-Labs)
 
-## Experience
 
-**Information Security Consultant**  
-SadaBit · Full-time  
-Mar 2024 - Present · 5 months  
-Islāmābād, Pakistan  
-- Information Security Consulting and Cybersecurity
-
-## Education
-
-**Beaconhouse**  
-2022 - 2024
-
-## Skills
-
-- Information Security Consulting
-- Cybersecurity
-
-## About
-Experienced cybersecurity consultant with 2 years of proven expertise. Specializing in security information and cybersecurity, I've successfully implemented robust strategies to safeguard organizations against digital threats. Let's connect to discuss how I can help protect your business's digital assets.
-
----
 
 *Note: This profile is tailored to highlight your skills, tools, certifications, projects, experience, and education in a cohesive and professional manner. Adjustments can be made to further personalize it as needed.*
